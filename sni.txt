@@ -2,7 +2,6 @@ samsung.com
 github.com
 github.io
 updates.cdn-apple.com
-jsdelivr.com
 cdn.jsdelivr.net
 cwiki.apache.org
 www.emirates.com
